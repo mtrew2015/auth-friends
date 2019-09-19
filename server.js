@@ -24,7 +24,7 @@ let friends = [
     {
         id: 3,
         name: 'Ryan',
-        age: 15,
+        age: "15",
         email: 'ryan@lambdaschool.com'
     },
     {
