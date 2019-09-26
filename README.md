@@ -1,3 +1,5 @@
+This is a repo that I demonstrated live during Lambda School Support Hours.
+
 Auth Friends
 Topics:
 
